@@ -1,3 +1,12 @@
+
+:root {
+  --blue: #58A4B0;
+  --heading-size:2em;
+}
+h2 {
+  color:var(--blue)
+}
+
 body {
   padding: 0px;
   margin: 0px;
