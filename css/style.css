@@ -6,6 +6,7 @@
 }
 
 body {
+  font-family: 'Manrope', sans-serif;
   padding: 0px;
   margin: 0px;
   font-family: 'Manrope', sans-serif;
@@ -30,6 +31,7 @@ body {
 }
 
 #contents {
+  font-family: 'Manrope', sans-serif;
   padding: 0;
   width: 100%;
   margin-top: 0; /*Adjust if Title header needs more space */
@@ -65,6 +67,7 @@ body {
 }
 
 .chapter-container {
+  font-family: 'Manrope', sans-serif;
   /* margin + padding = chapterContainerMargin in script.js */
   /* Important for scrolling! */
   margin: 50px 0 0 0;
