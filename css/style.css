@@ -5,6 +5,13 @@
   --font-family: 'Manrope', sans-serif;
 }
 
+html,
+body,
+app-root,
+.app-frame {
+  font-family: 'Manrope', sans-serif;
+}
+
 body {
   font-family: 'Manrope', sans-serif;
   padding: 0px;
