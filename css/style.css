@@ -13,6 +13,10 @@ app-root,
   font-family: 'Manrope', sans-serif;
 }
 
+header {
+  font-weight: bold;
+}
+
 body {
   font-family: 'Manrope', sans-serif;
   padding: 0px;
