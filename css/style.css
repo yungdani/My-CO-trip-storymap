@@ -2,12 +2,13 @@
 :root {
   --blue: #58A4B0;
   --heading-size:2em;
+  --font-family: 'Manrope', sans-serif;
 }
 
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: 'Manrope', sans-serif;
   overflow: hidden;
 }
 
@@ -165,6 +166,7 @@ a.source:visited {
 }
 
 #header {
+  font-family: 'Manrope', sans-serif;
   padding: 5px 0;
   text-align: center;
   color: #333;
@@ -172,11 +174,13 @@ a.source:visited {
 
 /* Storymap title & subtitle */
 h1 {
+  font-family: 'Manrope', sans-serif;
   margin: 0;
   font-size: 1.5em;
 }
 
 h2 {
+  font-family: 'Manrope', sans-serif;
   margin: 0;
   font-size: 1.1em;
   font-weight: normal;
